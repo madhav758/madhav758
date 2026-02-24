@@ -28,13 +28,13 @@ I work with data to analyze trends and build predictive models using:
 
 ## 🚀 Featured Projects
 
-### 🛒 ShopeGlobe
+###  ShopeGlobe
 **JavaScript E-commerce Application**  
 Interactive shopping interface focusing on UI logic and user flow.  
 **Tech:** JavaScript, HTML, CSS  
 🔗 https://github.com/madhav758/ShopeGlobe
 
-### 🛒 ShopeGlobe Backend
+###  ShopeGlobe Backend
 **E-commerce Application backend**  
 RESTful API & Server-side Logic Architected the server-side infrastructure to manage product data, user authentication, and order processing.
 **Tech:** Node.js, Express.js, MongoDB, JWT (JSON Web Tokens)
@@ -42,15 +42,21 @@ RESTful API & Server-side Logic Architected the server-side infrastructure to ma
 
 ---
 
-### 🍔 Swiggy Clone
+###  Swiggy Clone
 **Frontend Web Clone**  
 Recreated a real-world food delivery UI to practice layout, structure, and interactivity.  
 **Tech:** JavaScript, HTML, CSS  
 🔗 https://github.com/madhav758/Swiggy_Clone
 
+###  Swiggy Clone Backend
+**Server-side API & Data Management **  
+Developed the backend infrastructure to handle restaurant data, menu items, and order simulations. Focused on building clean API endpoints and managing data flow to the frontend. 
+**Tech:** Node.js, Express.js, MongoDB 
+ [https://github.com/madhav758/Swiggy_Clone](https://github.com/madhav758/Swiggy_Clone_BackEnd)
+
 ---
 
-### 🌦️ Weather App
+###  Weather App
 **Real-Time Weather Application**  
 Fetches and displays live weather data using external APIs.  
 **Tech:** JavaScript, Fetch API  
@@ -58,7 +64,7 @@ Fetches and displays live weather data using external APIs.
 
 ---
 
-### 📈 Advertising Sales Prediction
+###  Advertising Sales Prediction
 **Machine Learning – Linear Regression**  
 Built a regression model to predict sales based on advertising spend.  
 **Tech:** Python, Pandas, Scikit-learn  
@@ -66,7 +72,7 @@ Built a regression model to predict sales based on advertising spend.
 
 ---
 
-### ✈️ Airline Passenger Traffic Prediction
+###  Airline Passenger Traffic Prediction
 **Time-Series Analysis Project**  
 Analyzed and forecasted monthly airline passenger traffic using classical techniques.  
 **Tech:** Python, Pandas, Jupyter Notebook  
@@ -74,7 +80,7 @@ Analyzed and forecasted monthly airline passenger traffic using classical techni
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 - JavaScript (Node.js, Express, React)
@@ -90,7 +96,7 @@ Analyzed and forecasted monthly airline passenger traffic using classical techni
 
 ---
 
-## 📌 Currently Working On
+##  Currently Working On
 - Building robust **Full-Stack (MERN)** applications with complex authentication.
 - Mastering **Data Structures & Algorithms** (Java/JS) for optimized backend logic.
 - Preparing for **GSoC 2026** and open-source contributions.
@@ -103,7 +109,7 @@ Analyzed and forecasted monthly airline passenger traffic using classical techni
 
 
 
-## 📫 Contact
+##  Contact
 LinkedIn: https://www.linkedin.com/in/madhavshreyansh  
 
 
