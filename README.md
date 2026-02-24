@@ -28,6 +28,13 @@ I work with data to analyze trends and build predictive models using:
 
 ##  Featured Projects
 
+### YouTube Clone
+**Full-Stack Video Streaming Platform** Developed a comprehensive clone featuring video uploading, real-time data fetching, and a responsive playback interface. Built a dedicated backend to manage video metadata and user interactions, ensuring seamless communication between the client and server.
+
+**Tech:** Node.js, Express, MongoDB, React, JavaScript
+
+ https://github.com/madhav758/YoutubeClone
+
 ###  ShopeGlobe
 **JavaScript E-commerce Application**  
 Interactive shopping interface focusing on UI logic and user flow.  
