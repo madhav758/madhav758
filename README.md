@@ -38,7 +38,7 @@ Interactive shopping interface focusing on UI logic and user flow.
 **E-commerce Application backend**  
 RESTful API & Server-side Logic Architected the server-side infrastructure to manage product data, user authentication, and order processing.
 **Tech:** Node.js, Express.js, MongoDB, JWT (JSON Web Tokens)
-🔗 https://github.com/madhav758/ShopeGlobe_backend
+ https://github.com/madhav758/ShopeGlobe_backend
 
 ---
 
@@ -46,13 +46,13 @@ RESTful API & Server-side Logic Architected the server-side infrastructure to ma
 **Frontend Web Clone**  
 Recreated a real-world food delivery UI to practice layout, structure, and interactivity.  
 **Tech:** JavaScript, HTML, CSS  
-🔗 https://github.com/madhav758/Swiggy_Clone
+ https://github.com/madhav758/Swiggy_Clone
 
 ###  Swiggy Clone Backend
 **Server-side API & Data Management **  
 Developed the backend infrastructure to handle restaurant data, menu items, and order simulations. Focused on building clean API endpoints and managing data flow to the frontend. 
 **Tech:** Node.js, Express.js, MongoDB 
- [https://github.com/madhav758/Swiggy_Clone](https://github.com/madhav758/Swiggy_Clone_BackEnd)
+ https://github.com/madhav758/Swiggy_Clone_BackEnd
 
 ---
 
@@ -60,7 +60,7 @@ Developed the backend infrastructure to handle restaurant data, menu items, and 
 **Real-Time Weather Application**  
 Fetches and displays live weather data using external APIs.  
 **Tech:** JavaScript, Fetch API  
-🔗 https://github.com/madhav758/weather-app
+ https://github.com/madhav758/weather-app
 
 ---
 
@@ -68,7 +68,7 @@ Fetches and displays live weather data using external APIs.
 **Machine Learning – Linear Regression**  
 Built a regression model to predict sales based on advertising spend.  
 **Tech:** Python, Pandas, Scikit-learn  
-🔗 https://github.com/madhav758/advertising-sales-prediction
+ https://github.com/madhav758/advertising-sales-prediction
 
 ---
 
@@ -76,7 +76,7 @@ Built a regression model to predict sales based on advertising spend.
 **Time-Series Analysis Project**  
 Analyzed and forecasted monthly airline passenger traffic using classical techniques.  
 **Tech:** Python, Pandas, Jupyter Notebook  
-🔗 https://github.com/madhav758/Airplane-passenger-traffic-prediction-
+ https://github.com/madhav758/Airplane-passenger-traffic-prediction-
 
 ---
 
