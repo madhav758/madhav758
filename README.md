@@ -38,7 +38,8 @@ Interactive shopping interface focusing on UI logic and user flow.
 **E-commerce Application backend**  
 RESTful API & Server-side Logic Architected the server-side infrastructure to manage product data, user authentication, and order processing.
 **Tech:** Node.js, Express.js, MongoDB, JWT (JSON Web Tokens)
- https://github.com/madhav758/ShopeGlobe_backend
+
+https://github.com/madhav758/ShopeGlobe_backend
 
 ---
 
