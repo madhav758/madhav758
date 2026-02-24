@@ -1,4 +1,4 @@
-# Hi, I’m Shreyansh 👋
+# Hi, I’m Shreyansh 
 
 I’m a **Full-Stack Developer** with a strong foundation in **JavaScript (MERN Stack)** and **Python**, and hands-on experience building **interactive web applications**, **robust backend APIs**, and **data-driven projects**.
 
@@ -9,15 +9,15 @@ My core focus is building **end-to-end web solutions**, backed by practical know
 
 ---
 
-## 🧑‍💻 What I Do
+##  What I Do
 
-### 🌐 Full-Stack Web Development (Primary Focus)
+###  Full-Stack Web Development (Primary Focus)
 I build scalable, user-centric applications from the UI to the Database:
 * **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Responsive Design.
 * **Backend:** Node.js, Express.js, RESTful APIs, Middleware, and JWT Authentication.
 * **Database:** MongoDB (NoSQL) and data modeling.
 
-### 📊 Data & Machine Learning (Supporting Skillset)
+###  Data & Machine Learning (Supporting Skillset)
 I work with data to analyze trends and build predictive models using:
 * Python
 * Pandas, NumPy
@@ -26,7 +26,7 @@ I work with data to analyze trends and build predictive models using:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  ShopeGlobe
 **JavaScript E-commerce Application**  
